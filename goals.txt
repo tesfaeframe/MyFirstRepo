@@ -1,7 +1,0 @@
-# My Personal and Academic Goals for Next Year
-
-- Master Git and GitHub workflows
-- Complete a beginner-friendly software project
-- Learn a programming language (Python or JavaScript)
-- Contribute to an open-source project
-- Improve my problem-solving and teamwork skills
