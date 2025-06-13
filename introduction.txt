@@ -1,0 +1,6 @@
+# Brief Introduction About Myself
+
+Hello! My name is tesfa, and I’m learning Git and GitHub as part of my development journey.
+I’m excited to contribute to real-world projects and understand how collaboration works in software.
+
+I come from a background in ict, and I’m passionate about technology, learning, and problem-solving.
